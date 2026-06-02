@@ -251,7 +251,7 @@ streamlit run app.py
 
 ## 📝 Notes Generator
 
-img width="1440" height="900" alt="Screenshot 2026-06-02 at 5 22 30 PM" src="https://github.com/user-attachments/assets/4b268583-a062-425e-91b7-efff59c6ea03" />
+<img width="1440" height="900" alt="Screenshot 2026-06-02 at 5 22 30 PM" src="https://github.com/user-attachments/assets/4b268583-a062-425e-91b7-efff59c6ea03" />
 
 
 
