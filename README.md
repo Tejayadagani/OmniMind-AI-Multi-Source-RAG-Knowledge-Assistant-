@@ -238,9 +238,59 @@ streamlit run app.py
 
 ---
 
+
+# 📸 Application Preview
+
+## 🏠 Home Dashboard
+
+
+<img width="1440" height="900" alt="Screenshot 2026-06-02 at 5 22 13 PM" src="https://github.com/user-attachments/assets/0fc95ef6-4918-488b-9ada-98180fc9e228" />
+
+---
+
+
+## 📝 Notes Generator
+
+img width="1440" height="900" alt="Screenshot 2026-06-02 at 5 22 30 PM" src="https://github.com/user-attachments/assets/4b268583-a062-425e-91b7-efff59c6ea03" />
+
+
+
+---
+
+## 🎯 MCQ Generator
+
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-06-02 at 5 22 55 PM" src="https://github.com/user-attachments/assets/ce8fd5b9-7848-4222-9a3d-0492c7a47a07" />
+
+
+
+---
+
+## 🧠 Flashcards Generator
+
+
+<img width="1440" height="900" alt="Screenshot 2026-06-02 at 5 23 10 PM" src="https://github.com/user-attachments/assets/d40c2429-cd96-464e-a32f-098218a6abf4" />
+
+
+
+
+---
+
+## 💼 Interview Preparation Assistant
+
+
+
+<img width="1440" height="900" alt="Screenshot 2026-06-02 at 5 23 28 PM" src="https://github.com/user-attachments/assets/4752c105-6c1c-4877-b679-dbf8fe0f225e" />
+
+
+---
+
+
 # 👨‍💻 Developer
 
-### Teja Yadagani
+### DharmaTeja Yadagani
 
 AI Engineer • Generative AI • RAG Systems • Agentic AI
 
